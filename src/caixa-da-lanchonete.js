@@ -94,13 +94,4 @@ class CaixaDaLanchonete {
     }
 }
 
-
-// const caixa = new CaixaDaLanchonete();
-// const formaDePagamento = 'credito';
-// const itens = ['combo1,1', 'cafe,2'];
-
-// const valorTotal = caixa.calcularValorDaCompra(formaDePagamento, itens);
-// console.log(valorTotal);
-
-
 export { CaixaDaLanchonete };
