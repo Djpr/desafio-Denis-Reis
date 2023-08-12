@@ -103,4 +103,4 @@ class CaixaDaLanchonete {
 // console.log(valorTotal);
 
 
-// export { CaixaDaLanchonete };
+export { CaixaDaLanchonete };
